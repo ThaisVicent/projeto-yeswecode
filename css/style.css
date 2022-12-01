@@ -1,0 +1,539 @@
+body {
+   font-family: 'Work Sans', sem serifa;
+}
+.cabecalho-logoyes {
+   width: 100%;
+   height: 70px;
+   display: flex;
+   background: url("../img/fotoesqueda2.png")/200px;
+}
+.imagem-logoyes {
+   width: 90px;
+   margin: 0% 2%;
+}
+.menu-principal {
+   width: 50%;
+}
+.menu-principal ul {
+   display: flex;
+}
+.menu-principal ul li {
+   padding: 0% 2%;
+   list-style-type: none;
+   color: #314584;
+   font-weight: bold;
+   font-size: 18px;
+   font-family: "Work Sans";
+}
+.maletaimg-card {
+   padding: 15px 0px 0px 20px;
+}
+.action-bottom {
+   display: flex;
+   margin: 1% 2%;
+   color: #55b98f;
+   font-weight: bold;
+   font-size: 18px;
+}
+.action-bottom button {
+   margin: 0% 100%;
+   color: #55b98f;
+   width: 120px;
+   height: 30px;
+   background-color: #fff;
+   border: none;
+   border-radius: 5%;
+   font-weight: bold;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.seta-direita {
+      color: #55b98f;
+      font-size: 12px;
+}
+.img-1esquerda {
+   position: absolute;
+   top: 0%;
+   width: 100%;
+   z-index: -1;
+}
+.img-1esquerda img {
+   width: 580px;
+   height: 580px;
+   float: right;
+}
+.revolucao {
+      color: #342a6f;
+      font-size: 20px !important; 
+      font-family: 'Manrope', sans-serif !important; 
+      margin: 12% 15% 0% 15%;
+}
+.revolucao h1 {
+   margin: 0%;
+}
+.somosumaong {
+   color: #6e757a;
+      font-size: 10px !important; 
+      font-family: 'Manrope', sans-serif !important; 
+      margin: 0% 15%;
+}
+.botaofazerparte {
+   background-color: #55b98f;
+   color: #fff;
+   border-radius: 20px;
+   border: 1px solid #55b98f;
+   margin: 2% 2% 0% 15%;
+   width: 200px;
+   height: 55px;
+   font-family: "Work Sans";  
+   font-weight: bold;
+}
+.sobrenos {
+   font-family: "Work Sans";
+   color: #314584;
+   margin: 0% 0%;
+   text-decoration: underline;
+   font-size: 15px;
+}
+.tudogratuito {
+   color: #342a6f;
+   font-size: 15px;
+   font-family: 'Manrope', sans-serif !important;
+   margin: 10% 15%;
+}
+.tudogratuito h1 {
+   margin: 0%;
+}
+.tudogratuito span {
+   color: #342a6f;
+   font-size: 30px;
+   font-family: 'Manrope', sans-serif !important;
+   display: flex;
+}
+.linha-card {
+   display: flex;
+   margin: 0% 10% 0% 5%;
+
+}
+.card {
+   width: 275px;
+   height: 300px;
+   background-color: #fff;
+   border-radius: 20px;
+   box-shadow: 0px 0px 5px;
+   color: #342a6f;
+   font-size: 15px;
+   margin: auto;
+}
+.card p { 
+   text-align: initial;
+   margin: 18% 10% 0% 10%;
+}
+.titulo-cardmindset {
+   margin: 6%;
+}
+.text-cardmindeset {
+   margin: 6%;
+}
+.img-ondasdireita { 
+   position: absolute;
+   top: 120%;
+   width: 100%;
+   z-index: -1;
+}
+.img-ondasdireita img {
+   width: 250px;
+   height: 800px;
+   float: right;
+}
+.img-ondasesquerda {
+   position: absolute;
+   top: 120%;
+   width: 100%;
+   z-index: -1;
+}
+.img-ondasesquerda img {
+   width: 200px;
+   height: 800px;
+   float: left;
+}
+   .junte-se {
+   height: 100%;
+   margin: 5% 0% 0% 2%;
+}
+.junte-se span {
+   color: #55b98f;
+   font-weight: bold; 
+   margin: 0% 0% 0% 15%;
+}
+.junte-se h1 {
+   color: #342a6f;
+   font-weight: bold;
+   font-family: 'Manrope', sans-serif !important;
+   margin: 0% 0% 0% 15%;
+}
+.junte-se p {
+   width: 35%;
+   color: #342a6f;
+   font-weight: none;
+   margin: 5% 0% 0% 15%;
+}
+.titulos-centro {
+   text-align: center;
+   color: #342a6f;
+   font-weight: bold;
+   font-family: 'Manrope', sans-serif !important;
+   margin: 10% 40% 5% 40%;
+
+}
+.onda-inferior {
+   position: absolute;
+   top: 326%;
+   width: 14%;
+   z-index: -1;
+}
+.onda-inferior img { 
+   width: 580px;
+   height: 580px;
+   float: right;
+}
+   .linha2-card ul {
+   display: flex;
+
+}
+.linha2-card ul li {
+   list-style-type: none;
+   color: #314584;
+   font-weight: bold;
+   font-size: 18px;
+   font-family: "Work Sans";
+   margin: 0% 2% 1% 20%;
+}
+.img-cards-inscricao {
+   padding: 0px 0px 0px 50px;
+}
+.img-cards-entrevista {
+   padding: 10px 0px 0px 0px;  
+}
+.img-cards-jornada {
+   padding: 10px 0px 0px 85px;
+}
+.text-card-vejacomo {
+   text-align: right;
+}
+.card2 {
+   width: 260px;
+   height: 300px;
+   background-color: #fff;
+   border-radius: 20px;
+   box-shadow: 0px 0px 5px;
+   color: #342a6f;
+   font-size: 15px;
+   text-align: center;
+}
+.linha-card2{
+   display: flex;
+}
+.nossahistoria-frase {
+   color: #342a6f;
+   font-size: 20px;
+   font-family: 'Manrope', sans-serif !important;
+   display: flex;
+   margin: 0% 15%;
+}
+.border-baixo {
+   border-bottom: 5px solid #55b98f;
+   width: 300px;
+   border-radius: 2%;
+}
+.circulo {
+   background: #F4FAFE;
+   border-radius: 50%;
+   width: 150px;
+   height: 150px;
+   margin: 10%;
+   box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+   display: flex;
+}
+.circulo-conteudo {
+   display: flex;
+}
+.conteudo-circulo {
+   font-family: 'Manrope', sans-serif !important ;
+   color: #55b98f;
+   font-weight: bold;
+   font-size: 35px;
+   margin: 60% 0% 0% 25%;
+}
+.img-numero1 {
+   margin: 15% 200% 0% 200%;
+}
+.text-numero1 {
+   color: #e0e0e0;
+   font-family: 'Manrope', sans-serif !important ;
+   width: 200%;
+   height: 100%;
+   margin: 5% 0% 0% 110%;
+}
+.img-numero2 {
+   margin: 15% 0% 0% 300%;
+}
+.text-numero2 {
+   color: #e0e0e0;
+   font-family: 'Manrope', sans-serif !important ;
+   width: 240%;
+   height: 100%;
+   margin: 5% 0% 0% 240%;
+}
+.apoie-patrocine {
+   color: #d56fa7;
+   font-family: 'Manrope', sans-serif !important ;
+   margin: 10%;
+}
+.oquee {
+   color: #342a6f;
+   font-family: 'Manrope', sans-serif !important ;
+   margin: 10%;
+   font-size: 40px;
+   font-weight: bold;
+}
+.formulario {
+   width: 20%;
+   height: 100%;
+   display: flex;
+   margin: 0% 0% 0% 6%;
+}
+.form-info {
+   width: 460px;
+   height: 40px;
+   background: #F4FAFE;
+   margin: 20px 50px 20px 40px;
+   border: none;
+   color: #d56fa7;
+
+}
+.form-digitesuamgs {
+   width: 1016px;
+   height: 120px;
+   background: #F4FAFE;
+   margin: 20px 50px 20px 40px;
+   border: none;
+   color: #d56fa7;
+   margin: 2% 0% 2% 9%;
+   text-align: left;
+}
+input::placeholder {
+      color: #d603cf;
+      text-align: left;
+}
+.botao-form {
+   display: flex;
+}
+.botao-enviar {
+   background-color: #342a6f;
+   color: #fff;
+   border-radius: 20px;
+   border: 1px solid #342a6f;
+   margin: 0% 0% 5% 40%;
+   width: 120px;
+   height: 40px;
+   font-family: "Work Sans";  
+   font-weight: bold;
+}
+.porquefazerparte {
+   color: #d56fa7;
+   font-family: 'Manrope', sans-serif !important ;
+   margin: 10%;
+}
+.bene {
+   display: flex;
+}
+.beneficios {
+   color: #342a6f;
+   font-family: 'Manrope', sans-serif !important ;
+   margin: 10%;
+   font-size: 30px;
+   font-weight: bold;
+}
+.seta-esquerda {
+   margin: 0% 0% 0% 85%
+}
+.seta-direita {
+   margin: 0% 0% 0% 5%
+}
+.linha-card2 {
+   display: flex;
+   margin: 2% 0% 0% 10%;
+}
+.card3 {
+   width: 300px;
+   height: 290px;
+   background-color: #fff;
+   border-radius: 20px;
+   box-shadow: 0px 0px 5px;
+   color: #342a6f;
+   font-size: 15px;
+   text-align: left;
+   margin: 0% 8% 3% 0%;
+}
+.card3 p {
+   margin: 15% 10% 6% 6%;
+} 
+.seta-rosacard {
+   margin: 14% 0% 0% 75%;
+} 
+.titulo-card3 {
+   font-size: 24px;
+   margin: 6%;
+   font-family: 'Manrope', sans-serif !important ;
+   color: #fff;
+   background-color: #d603cf;
+}
+.color-pink {
+   background-color: #d603cf;
+}
+.primeirocard3 {
+   color: #fff;
+   text-align: left;
+   background-color: #d603cf;
+}
+.primeirocard3 p {
+   background-color: #d603cf;
+   color: #fff;
+   font-family: 'Manrope', sans-serif !important ;
+   text-align: left;
+   font-size: 18px;
+   margin: 5%;
+}
+.card3 h1 {
+   font-family: 'Manrope', sans-serif !important ;
+   color: #d603cf;
+   font-size: 18px;
+   font-weight: bold;
+   margin: 8%;
+}
+.card3 span {
+   color: #342a6f;
+}
+.apoie-contratando {
+   display: flex;
+   color: #d56fa7;
+   font-family: 'Manrope', sans-serif !important ;
+   font-size: 8px;
+   margin: 5% 0% 0% 10%;
+}
+.apoie-contratando img {
+   margin: 0% 0% 0% 70%;
+}
+.criasdayes h1 {
+   display: flex;
+   font-family: 'Manrope', sans-serif !important ;
+   color: #544292;
+   margin: 0% 0% 0% 10%;
+   font-weight: 100;
+}
+.degrade-yes {
+   position: absolute;
+   top: 586%;
+   width: 100%;
+   z-index: -1;
+}
+.degrade-yes img {
+   width: 32%;
+   height: 86px;
+   float:inherit; 
+}
+.profissionais {
+  display: flex;
+  color: #314584;
+  font-family: 'Manrope', sans-serif !important ;
+  font-weight: bolder;
+}
+.text-profissionais { 
+   width: 20%;
+}
+.profissionais p {
+   height: 80%;
+   width: 100%;
+   margin: 8% 0% 0% 48%;
+
+}
+.img-matheus {
+ display: flex;
+}
+.tamanhoimg-matheus {
+   width: 320%;
+   height: 80%;
+   margin: 0% 0% 0% 16%;
+
+}
+.tamanhoimg-matheus3 {
+   height: 80%;
+}
+.quemjápatrocina {
+   text-align: center;
+   font-weight: bold;
+   font-family: 'Manrope', sans-serif !important ;
+   color: #544292;
+   font-size: 30px;
+   margin: 5% 0% 5% 0%;
+}
+.icones-quempatrocina {
+   display: flex;
+   width: 80%;
+   height: 145px;
+   margin: 0% 0% 0% 15%;
+}
+.icones-quempatrocina img {
+   margin: 0% 0% 2% 4%;
+}
+.quemjápatrocina-segundalinha {
+   display: flex;
+   width: 80%;
+   height: 145px;
+   margin: 0% 0% 0% 15%;
+}
+.logo-amazon {
+ margin: 4% 0% 0% 4%;
+}
+.logo-microsoft {
+   margin: 2% 0% 0% 5%;
+}
+.logo-alura {
+   margin: 4% 0% 0% 4%;
+}
+.somosumainiciativa {
+   width: 100%;
+   height: 300px;
+   background-color: #544292;
+}
+.somosumainiciativa h1 {
+   text-align: center;
+   color: rgb(108, 180, 232);
+   font-weight: bold;
+   font-size: 35px;
+}
+.somosumainiciativa p {
+   text-align: center;
+   color: #fff;
+   font-size: 18px;
+   font-family: 'Manrope', sans-serif !important ;
+}
+.redes-sociais {
+   display: flex;
+   margin: 4% 0% 0% 40%;
+}
+.logo-facebook {
+   margin: 0% 6% 0% 0%;
+}
+.logo-twitter {
+   margin: 0% 6% 0% 0%;
+}
+.somosumainiciativa h2 {
+   font-size: 15px;
+   text-align: center;
+   color: #fff;
+   font-weight: normal;
+   margin: 4%;
+}
