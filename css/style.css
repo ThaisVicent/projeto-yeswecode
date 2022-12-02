@@ -211,13 +211,13 @@ body {
    margin: 0% 2% 1% 20%;
 }
 .img-cards-inscricao {
-   padding: 0px 0px 0px 50px;
+   padding: 12px 0px 0px 100px;
 }
 .img-cards-entrevista {
-   padding: 10px 0px 0px 0px;  
+   padding: 12px 0px 0px 86px;  
 }
 .img-cards-jornada {
-   padding: 10px 0px 0px 85px;
+   padding: 12px 0px 0px 85px;
 }
 .text-card-vejacomo {
    text-align: right;
@@ -378,7 +378,7 @@ input::placeholder {
    margin: 0% 8% 3% 0%;
 }
 .card3 p {
-   margin: 15% 10% 6% 6%;
+   margin: 15% 10% 0% 6%;
 } 
 .seta-rosacard {
    margin: 14% 0% 0% 75%;
